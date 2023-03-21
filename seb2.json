@@ -1,9 +1,9 @@
 {
     "standardCover": true,
-    "goldCover": false,
-    "businessCover": false,
-    "platinumCover": false,
-    "worldEliteCover": false,
+    "goldCover": true,
+    "businessCover": true,
+    "platinumCover": true,
+    "worldEliteCover": true,
     "hint": "HintText"
 }
  
